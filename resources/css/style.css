@@ -14,6 +14,7 @@ html {
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 .clearfix {zoom: 1}
@@ -288,13 +289,17 @@ header {
     background-color: #f4f4f4;
 }
 
+.steps-box {
+    margin-top: 30px;    
+}
+
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
-    margin-top: 30px;
 }
 
 .steps-box:last-child {
+    text-align: left;
     padding-left: 3%;
     margin-top: 70px;
 }
@@ -307,12 +312,17 @@ header {
     margin-bottom: 50px;
 }
 
+.works-step:last-of-type {
+    margin-bottom: 80px;
+}
+
 .works-step div {
     color: #e67e22;
     border: 2px solid #e67e22;
     border-radius: 50%;
-    height: 50px;
-    width: 55px;
+    height: 54px;
+    width: 54px;
+    display: inline-block;
     text-align: center;
     float: left;
     padding: 5px;
@@ -324,7 +334,6 @@ header {
     height: 50px;
     width: auto;
     margin-right: 10px;
-    margin-top: 30px;
 }
 
 .btn-app:link,
