@@ -1,4 +1,6 @@
-# First HTML/CSS project
+# 1st HTML/CSS project...
+
+## From Udemy.com // HTML/CSS Intro Course
 
 
 ### Learnings:
