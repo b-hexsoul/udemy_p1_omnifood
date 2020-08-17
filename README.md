@@ -10,3 +10,8 @@
 - pseudoclasses for css (link, visited, active, hover, last, first-child, first-of-type)
 - :after pseudoclass to create a line break style, content: " ", 
 - image opacity set with black background, image hover opacity to 1 for effect. transform: scale()
+- Using Float, 4img each row, width25% for li but 100% for figure/img,display:block, float:left.
+- Float .clr
+- Background-attachment: fixed for photo scroll effect. 
+- Form editing && input [type="text"] css
+- Media Queries: eg. @media only screen and (max-width: 480px) {css code}
