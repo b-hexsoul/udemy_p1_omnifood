@@ -1,6 +1,7 @@
-# 1st HTML/CSS project...
+# HTML/CSS Intro Course
 
-## From Udemy.com // HTML/CSS Intro Course
+## Overview:
+Introductory HTML/CSS course. Use of vendor grid file.
 
 
 ### Learnings:
