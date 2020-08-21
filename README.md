@@ -4,7 +4,7 @@
 Introductory HTML/CSS course. Use of vendor grid file.
 
 
-### Learning Highlights (for self reminder):
+### Learning Highlights (for self review):
 - using 100vh for showcase image, linear gradient with white text.  
 - transform: translate, absolute positioning, top && left.
 - buttons (text-decoration, border-radius) && logo image (setting a height by px and width to auto)
